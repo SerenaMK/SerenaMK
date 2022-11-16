@@ -17,8 +17,9 @@ Efficiency is key: I don't like wasting time, whether my own or my client's. <st
 <br>
 
 Accepting job offers.
+<br><br>
 
-
+<img src="https://i.ibb.co/5FNHqKV/ezgif-1-854bc1bcb8.gif">
 
 
 
