@@ -12,9 +12,11 @@ Efficiency is key: I don't like wasting time, whether my own or my client's. <st
 
 💬 I know the value of "tried and true", while also keeping in mind that those who only ever play it safe don't stand out from the crowd. Nothing ventured, nothing gained. Creativity and innovation can make the difference: <i>my work helps my client stand out while conveying professionalism and providing a great user experience</i>.
 
-
 <br><br>
 📝 Currently learning more ways to be useful as a developer by attending <a href="https://epicode.com/en/we-are-epicode/">EPICODE</a>'s Full-Stack course.
+
+<br><br>
+Accepting job offers.
 
 
 
