@@ -10,7 +10,7 @@ Unfortunately for me (but fortunately for my clients!), I'm a perfectionist; I h
 Efficiency is key: I don't like wasting time, whether my own or my client's. Let's get you exactly what you want, without cutting corners. I take pride in my work and in delivering the best possible results.
 <br><br>
 
-I know the value of "tried and true", while also keeping in mind that those who only ever play it safe don't stand out from the crowd. Nothing ventured, nothing gained. Creativity and innovation can make the difference: my work helps my client stand out while remaining professional and providing a great user experience.
+I know the value of "tried and true", while also keeping in mind that those who only ever play it safe don't stand out from the crowd. Nothing ventured, nothing gained. Creativity and innovation can make the difference: my work helps my client stand out while conveying professionalism and providing a great user experience.
 
 
 <br><br>
