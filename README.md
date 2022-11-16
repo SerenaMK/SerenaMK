@@ -14,7 +14,7 @@ Efficiency is key: I don't like wasting time, whether my own or my client's. <st
 
 
 <br><br>
-✍️ Currently learning more ways to be useful as a developer by attending <a href="https://epicode.com/en/we-are-epicode/">EPICODE</a>'s Full-Stack course.
+📝 Currently learning more ways to be useful as a developer by attending <a href="https://epicode.com/en/we-are-epicode/">EPICODE</a>'s Full-Stack course.
 
 
 
