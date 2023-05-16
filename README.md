@@ -27,8 +27,10 @@ Accepting job offers.
 
 <img src="https://i.ibb.co/YfbRNtX/yty56.png">
 
+🔭 Currently working on:
+- Adding more projects to my portfolio
 
-- 📫 How to reach me:
+📫 How to reach me:
 - Via <a href="mailto:serenamudekoko@gmail.com">e-mail</a>
 - Via <a href="https://www.linkedin.com/in/serena-mude-koko-290326151/">Linkedin</a>
 
