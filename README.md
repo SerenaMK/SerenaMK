@@ -25,7 +25,7 @@ Accepting job offers.
 <br><br>
 
 
-<img src="https://i.ibb.co/5FNHqKV/ezgif-1-854bc1bcb8.gif">
+<img src="https://i.ibb.co/YfbRNtX/yty56.png">
 
 
 - 📫 How to reach me:
