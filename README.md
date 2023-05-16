@@ -29,7 +29,7 @@ Accepting job offers.
 
 
 - 📫 How to reach me:
-- Via <a href="email:serenamudekoko@gmail.com">e-mail</a>
+- Via <a href="mailto:serenamudekoko@gmail.com">e-mail</a>
 - Via <a href="https://www.linkedin.com/in/serena-mude-koko-290326151/">Linkedin</a>
 
 
