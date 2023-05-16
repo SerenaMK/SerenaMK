@@ -8,7 +8,7 @@
 💻 I'm <strong><i>Serena MK</i></strong>, a <b>Junior Full-Stack Developer</b> / <b>Software Engineer</b> based in <i>Italy</i> who specializes in <b>Front-End</b> website and app design.
 <br><br>
 
-🔍 Unfortunately for me (but fortunately for my clients!), I'm a <b>perfectionist</b>; I hyperfocus on my project until everything is exactly as planned.
+🔍 I'm a <b>perfectionist</b>; I hyperfocus on my project until everything is exactly as planned.
 <br>
 Efficiency is key: I don't like wasting time, whether my own or my client's. <strong>Let's get you exactly what you want, without cutting corners</strong>. I take pride in my work and in delivering the best possible results.
 <br><br>
