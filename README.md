@@ -5,7 +5,7 @@
 <img src="https://i.ibb.co/YfbRNtX/yty56.png">
 
 
-💻 I'm <strong><i>Serena MK</i></strong>, a <b>Junior Full-Stack Developer</b> / <b>Software Engineer</b> based in <i>Italy</i> who specializes in <b>Front-End</b> website and app design.
+💻 I'm <strong><i>Serena MK</i></strong>, a <b>Junior Full-Stack Developer</b> / <b>Software Engineer</b> based in <i>Italy</i> who specializes in <b>Front-End</b> website and app design. Currently working at <a href="https://www.jakala.com">JAKALA</a>.
 <br><br>
 
 🔍 I'm a <b>perfectionist</b>; I hyperfocus on my project until everything is exactly as planned.
@@ -21,7 +21,7 @@ Efficiency is key: I don't like wasting time, whether my own or my client's. <st
 📝 I attended <a href="https://epicode.com/en/we-are-epicode/">EPICODE</a>'s Full-Stack course in order to learn more about coding and hone my skills. <a href="https://benchmark.epicode.com/credentials/645e0be2a052a6c5660a694a">You can view my certificate here</a>.
 <br>
 
-Accepting job offers.
+Accepting job offers. <i>Full remote only</i>.
 <br><br>
 
 
